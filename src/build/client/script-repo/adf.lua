@@ -1,4 +1,4 @@
-local frame = loadstring(game:HttpGet("https://raw.githubusercontent.com/std-fs/ex.rlua/src/build/client/lib/uiv.lua", true))
+local frame = loadstring(game:HttpGet("https://raw.githubusercontent.com/std-fs/ex.rlua/main/src/build/client/lib/uiv.lua", true))
 local fxl = frame:frame(" RE:DEFINED - 127.0.0.1; std_fs")
 local fxi = fxl:cat(" Exploit ")
 
